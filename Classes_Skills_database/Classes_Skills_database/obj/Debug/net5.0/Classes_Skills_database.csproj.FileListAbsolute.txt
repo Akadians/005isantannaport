@@ -1,0 +1,16 @@
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.exe
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.deps.json
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.runtimeconfig.json
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.runtimeconfig.dev.json
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.dll
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\ref\Classes_Skills_database.dll
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\bin\Debug\net5.0\Classes_Skills_database.pdb
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.AssemblyInfo.cs
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.dll
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\ref\Classes_Skills_database.dll
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.pdb
+C:\Users\Igor\Documents\ProjectsUnityCSharp\05 - C# DataBase - Skills\Classes_Skills_database\Classes_Skills_database\obj\Debug\net5.0\Classes_Skills_database.genruntimeconfig.cache
